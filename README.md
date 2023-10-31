@@ -3,7 +3,7 @@
 - 🌱 I’m currently  learning coding...
 - 💞️ I’m looking to collaborate on web development projects...
 - 📫 How to reach me through janemuchira96@gmail.com
-- +254713481538
+- 
 
 <!---
 Jmuchira/Jmuchira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
